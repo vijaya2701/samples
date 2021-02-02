@@ -16,9 +16,9 @@
 |vijaya| 80| cse|
 
 # ordered List
-    a gud
-    b morning
-    c vijaya
+    1. gud
+    2. morning
+    3. vijaya
            - tea
            * coffee
        
