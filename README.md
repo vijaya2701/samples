@@ -21,8 +21,8 @@
     c vijaya
 
 # unordered List
-    -tea
-       *black
-       *green
-    -coffee
-    -milk
+    - tea
+       * black
+       * green
+    - coffee
+    - milk
