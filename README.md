@@ -16,14 +16,10 @@
 |vijaya| 80| cse|
 
 # ordered List
-    1. gud
-    2. morning
-    3. vijaya
-           - tea
-           * coffee
-       
-
+        1 TEA
+        2 COFEE
+        3 MILK
 # unordered List
-    - tea
-    - coffee
-    - milk
+        * ONE
+        * TWO
+        * THREE
